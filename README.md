@@ -8,7 +8,7 @@ Requirements:
  * pandas
  
  # Dataset
- Dataset used is the SMS-Spam dataset from UCI Machine Learning repository. This dataset contains 5574 sms, with label of ham/spam as prefix for each message. 100% of this data is present in dataset/training-data-full.
+ Dataset used is the SMS-Spam dataset from UCI Machine Learning repository. This dataset contains 5574 sms, with label of ham/spam as prefix for each message.
  
  *  to download data set click [here](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection)
  
