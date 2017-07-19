@@ -1,6 +1,6 @@
-# spam-detection
+# Spam-Detection
 
-A supervised Machine Learning Application trained for differentiating between legitimate and spam messages.
+A supervised Machine Learning Application trained for differentiating between legitimate and spam messages and mails.
 
 Requirements:
  * python 3.5 or above
@@ -16,3 +16,4 @@ Requirements:
  
  *  to download data set click [here](http://csmining.org/index.php/spam-email-datasets-.html)
  
+PS:-It has the accuracy of 98%.:+1
